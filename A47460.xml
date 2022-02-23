@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The King of Morocco's letter by his ambassador to the King of England</title>
+            <author>Ismāʻīl, Sultan of Morocco, d. 1727.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47460</idno>
+            <idno type="STC">Wing K568</idno>
+            <idno type="STC">ESTC R16908</idno>
+            <idno type="EEBO-CITATION">11859325</idno>
+            <idno type="OCLC">ocm 11859325</idno>
+            <idno type="VID">49993</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47460)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49993)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 499:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The King of Morocco's letter by his ambassador to the King of England</title>
+                  <author>Ismāʻīl, Sultan of Morocco, d. 1727.</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Janeway ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Morocco --  Foreign relations --  Great Britain.</term>
+               <term>Great Britain --  Foreign relations --  Morocco.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:49993:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 59 -->
+            <head>THE King of Moroccos LETTER BY HIS AMBASSADOR TO THE King of England.</head>
+            <p>WHEN theſe our Letters ſhall be ſo happy as to come to <hi>Your Majeſties</hi> ſight, I wiſh the Spirit of the <hi>Righteous God</hi> may ſo di<g ref="char:EOLhyphen"/>rect Your Mind, that You may joyfully embrace the Meſſage I ſend. The Regal Power allotted to Us, makes us firſt <hi>common Servants</hi> to our Creator, then of <hi>thoſe People</hi> whom we Govern: So that obſerving the <hi>Duties</hi> we owe to God, we deliver Bleſſings to the world. In providing for the Publick Good of our Eſtates, we magnifie the Honour of God, like <hi>the Celeſtial Bodies,</hi> which though they have much Veneration, yet ſerve only to the <hi>Benefit</hi> of the World. It is the excellency of our <hi>Office</hi> to be Inſtruments, whereby Happineſs is delivered to Na<g ref="char:EOLhyphen"/>tions.</p>
+            <p>Pardon me Sir! This is not to <hi>Inſtruct,</hi> (for I know I ſpeak to one of a more clear and quick <hi>ſight</hi> than my ſelf) But I ſpeak this, becauſe God hath pleaſed to grant me a happy Victory over ſome part of thoſe <hi>Rebellious Pyrates,</hi> that ſo long have moleſted the peaceable Trade of <hi>Europe;</hi> and hath preſented further occaſion to root out the Gene<g ref="char:EOLhyphen"/>ration of thoſe, who have been ſo pernicious to the Good of our Nations: I mean ſince it hath pleaſed God to be ſo Auſpicious to our beginnings, in the Conqueſt of <hi>Sallee,</hi>
+               <pb facs="tcp:49993:2"/>
+               <!-- PDF PAGE 60 -->that we might join and proceed in hope of like Succeſs in the Wars of <hi>Tunis, Algiers</hi> and other places (<hi>Dens</hi> and <hi>Re<g ref="char:EOLhyphen"/>ceptacles</hi> of the inhumane Villanies of thoſe who abhor Rule and Government.) Herein whilſt we interrupt the Corruption of malignant Spirits of the world, we ſhall glo<g ref="char:EOLhyphen"/>rifie the <hi>Great God,</hi> and perform a Duty, that will ſhine as glotious as the <hi>Sun</hi> and <hi>Moon,</hi> which all the Earth may ſee and reverence: A work that ſhall aſcend as ſweet as the <hi>Perfume</hi> of the moſt precious Odours in the <hi>Noſtrils of the Lord;</hi> a work grateful and happy to men; a work whoſe Memory ſhall be reverenced ſo long as there ſhall be any remaining amongſt men, that love and honour the <hi>Piety</hi> and Vertue of Noble Minds. This Action I here willingly preſent to You, whoſe <hi>Piety</hi> and Vertues equal the Great<g ref="char:EOLhyphen"/>neſs of Your Power, that we who are <hi>Vicegerents</hi> to the Great and <hi>Mighty God,</hi> may hand in hand Triumph in the Glory which the Action preſents unto us.</p>
+            <p>Now becauſe the Iſlands which You Governs, have been ever Famous for the unconquered Strength of their Ship<g ref="char:EOLhyphen"/>ping, I have ſent this my Truſty Servant and <hi>Ambaſſado<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> to know whether in Your Princely Wiſdom You ſhall think ſir to aſſiſt me with ſuch Forces by Sea as ſhall be anſwerable to thoſe I provide by Land; which if You pleaſe to grant, I doubt not but the <hi>Lord of Hoſts</hi> will protect and aſſiſt thoſe that Fight in ſo glorious a Cauſe. Nor ought you to think this ſtrange that I, who ſo much Reverence the Peace and Accord of Nations, ſhould Exhort to a War: Your Great prophet <hi>CHRIST JES<g ref="char:V">Ʋ</g>S</hi> was the <hi>Lion of the Tribe of Judah,</hi> as well as the <hi>Lord and Giver of Peace;</hi> which may ſignifie unto You, That He which is a Lover and Maintain<g ref="char:EOLhyphen"/>er of Peace, muſt alwayes appear with the terror of his Sword; and wading through Seas of <hi>Blood,</hi> muſt arrive to <hi>Tranquillity.</hi> This made <hi>James</hi> your Father of Glorious memory, ſo happily Renown'd amongſt all Nations. It was the Noble Fame of Your <hi>Princely Vitues</hi> which reſounds to the utmoſt <hi>corners of the earth,</hi> that perſuaded me to invite You to partake of that Bleſſing wherein I boaſt my Self moſt happy. I wiſh God may heap the Riches of his Elſ<g ref="char:EOLhyphen"/>ſings on You, encreaſe Your Happineſs with your Days; and hereafter perpetuate the Greatneſs of Your <hi>Name</hi> in all Ages.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Richard Janeway</hi> in <hi>Queens-head-Alley</hi> in <hi>Pater-noſter-Row.</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
